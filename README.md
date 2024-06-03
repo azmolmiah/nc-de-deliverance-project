@@ -8,7 +8,7 @@ This repository contains the code and infrastructure for the Totesys Data Engine
 
 ## Documentation
 
-Please find the documentation for the project and code [here](http://milesjphillips.com/nc-de-deliverance-project/)
+Please find the documentation for the project and code [here](https://azmolmiah.github.io/nc-de-deliverance-project/)
 
 ## Project Architecture
 
