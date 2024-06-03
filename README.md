@@ -115,5 +115,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Northcoders](https://northcoders.com/) for providing the project specification and guidance.
 - [AWS Documentation](https://docs.aws.amazon.com/) for the comprehensive documentation on AWS services.
 - [Terraform Documentation](https://www.terraform.io/docs/) for the Terraform documentation and examples.
-
-For more information refer to the [documentation](https://milesjphillips.com/nc-de-deliverance-project/).
